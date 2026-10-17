@@ -1,0 +1,2 @@
+# Files shared into CA Desk from other apps on Android (handled by the service worker; this is the fallback)
+/share-target  /index.html  200
