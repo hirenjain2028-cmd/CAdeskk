@@ -1,5 +1,0 @@
-# CA Desk on Netlify. No build step: the app is plain HTML, CSS and JavaScript.
-# Headers live in _headers and routing in _redirects, so they also work with drag-and-drop deploys.
-[build]
-  publish = "."
-  command = ""
